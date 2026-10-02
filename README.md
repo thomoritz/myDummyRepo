@@ -1,2 +1,2 @@
 # myDummyRepo
-Playgound Repo for GitHub/Git
+## Playgound Repo for GitHub/Git
